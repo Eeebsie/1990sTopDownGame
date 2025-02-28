@@ -1,0 +1,4 @@
+Mechanics:
+Top Down isometric view
+Boss fights, 2d
+Character goes to sleep and the game is played while he/she is sleeping
